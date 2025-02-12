@@ -23,3 +23,6 @@ Un servicio de **correo temporal gratuito y de código abierto** para proteger t
 ## 📜 Licencia
 Este proyecto está bajo la licencia MIT. Puedes modificarlo y distribuirlo libremente.
 
+# Thanks
+
+Mehmet Kahya, for [his open source project](https://github.com/mehmetkahya0/temp-mail)
